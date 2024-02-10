@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rangan Ramanaruban
-- 👀 I’m interested in Developing web Applications using Laravel.
+- 👀 I’m interested in Developing web Applications using Laravel and Springboot.
 - 🌱 I’m currently pursuing Honours Degree in Computer Science at University of Jaffna.
 - 💞️ I’m looking to collaborate on a Laravel Web Development Project.
 
